@@ -1,0 +1,15 @@
+#profile{
+    height: max-content;
+    width: max-content;
+}
+#profile1{
+    height: 154px;
+    width: 160px;
+    border-radius: 50%;
+    position: absolute;
+    left: 47%;
+    top: 8%;
+}
+body{
+    background-color:#b0d9ff;
+}
